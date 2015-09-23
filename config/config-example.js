@@ -82,7 +82,7 @@ exports.reportbattles = true;
 // report joins and leaves in battle - shows messages like "<USERNAME> joined" in battle
 //   Set this to false on large tournament servers where battles get a lot of joins and leaves.
 //   Note that the feature of turning this off is deprecated.
-exports.reportbattlejoins = true;
+exports.reportbattlejoins = false;
 
 // whitelist - prevent users below a certain group from doing things
 //   For the modchat settings, false will allow any user to participate, while a string
